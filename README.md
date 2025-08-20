@@ -1,9 +1,3 @@
-# 🚀 PromptGen - My AI Prompt Generator Project
-
-## 🙏 Namaste Everyone!
-
-I am Masoom Choudhury, a passionate Computer Science student from India with a keen interest in AI and web development. This project is born out of my curiosity to explore the capabilities of Gemini API and create something useful for my portfolio while applying for internships.
-
 ## 💡 What is PromptGen?
 
 PromptGen is a tool I developed to generate enhanced AI prompts using the Gemini API. During my learning journey, I realized how important well-crafted prompts are for getting the best results from AI models. So I thought, "Why not create a tool that helps with this?" and here we are!
