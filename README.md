@@ -48,8 +48,4 @@ I plan to add more features like:
 
 ## 📞 Contact Me
 
-If you like my project or have any internship opportunities, please reach out to me at masoom.kc@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/masoomchoudhury/).
-
----
-
-*This project was created with lots of chai and midnight coding sessions! ☕*
+If you like my project or have any internship opportunities, please reach out to me at masoom.kc@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/masoom-choudhury/).
